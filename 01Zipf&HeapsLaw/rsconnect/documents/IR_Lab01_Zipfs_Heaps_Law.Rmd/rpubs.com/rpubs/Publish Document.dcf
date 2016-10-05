@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/215309/cf5444150b254019a3d802dd364999fa
+bundleId: https://api.rpubs.com/api/v1/document/215309/cf5444150b254019a3d802dd364999fa
+url: http://rpubs.com/Saulabrm/215309
+when: 1475658277.74673
